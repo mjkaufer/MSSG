@@ -16,5 +16,6 @@
 		"bootstrap.css"
 	],
 	"outputDir": "rendered/",
-	"renderTime": 500
+	"renderTime": 500,
+	"meta":"<title>MSSG</title>"
 }
