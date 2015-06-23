@@ -18,5 +18,9 @@
   "homepage": "https://github.com/mjkaufer/SSG#readme",
   "dependencies": {
     "phantomjs": "^1.9.17"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "ssg": "lib/main.js"
   }
 }
