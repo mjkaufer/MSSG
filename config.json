@@ -1,0 +1,18 @@
+{
+	"url": "http://localhost",
+	"port": 3030,
+	"routes": [
+		"/etfs",
+		"/news"
+	],
+	"scripts": [
+		"test.js",
+		"./hello.js"
+	],
+	"css": [
+		"style.css",
+		"bootstrap.css"
+	],
+	"outputDir": "rendered/",
+	"renderTime": 500
+}

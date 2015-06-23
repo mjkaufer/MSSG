@@ -1,0 +1,22 @@
+{
+  "name": "ssg",
+  "version": "0.0.1",
+  "description": "Meteor Static Site Generator - Node module to render meteor routes as HTML, using PhantomJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjkaufer/SSG.git"
+  },
+  "author": "Matthew Kaufer (@mjkaufer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjkaufer/SSG/issues"
+  },
+  "homepage": "https://github.com/mjkaufer/SSG#readme",
+  "dependencies": {
+    "phantomjs": "^1.9.17"
+  }
+}
