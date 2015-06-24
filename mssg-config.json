@@ -17,5 +17,7 @@
 	],
 	"outputDir": "rendered/",
 	"renderTime": 500,
-	"meta":"<title>MSSG</title>"
+	"meta":[
+		"<title>MSSG</title>"
+	]
 }
